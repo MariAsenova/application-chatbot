@@ -1,6 +1,7 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
 COPY ./ChatbotApplication/ChatbotApplication.csproj ./ChatbotApplication/ChatbotApplication.csproj
+COPY *.sln ./
 RUN dotnet restore
 
 COPY . ./
