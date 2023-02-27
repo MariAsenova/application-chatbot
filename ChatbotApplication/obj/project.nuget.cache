@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+OBDOgK+xIzgMyBZfUnQi7pU+NIjvv7uDNNVoX6fYQaZNgXzxFDg7fMP6o9/J3se8Ct+7DPXLdp+55bktjpfCQ==",
+  "dgSpecHash": "Jn6CtJJWnWvgXqfhqW/idx3A82oOWflM2j4+tmJTudQV8fXeAciyNpvFvIp6zyMwcl0eEjDvUFkkHI0MFyXZiA==",
   "success": true,
   "projectFilePath": "/home/maria/git/ApplicationChatBot/application-chatbot/ChatbotApplication/ChatbotApplication.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "/home/maria/.nuget/packages/google.cloud.dialogflow.v2/4.8.0/google.cloud.dialogflow.v2.4.8.0.nupkg.sha512",
     "/home/maria/.nuget/packages/google.cloud.location/2.0.0/google.cloud.location.2.0.0.nupkg.sha512",
     "/home/maria/.nuget/packages/google.longrunning/3.0.0/google.longrunning.3.0.0.nupkg.sha512",
-    "/home/maria/.nuget/packages/google.protobuf/3.21.0/google.protobuf.3.21.0.nupkg.sha512",
+    "/home/maria/.nuget/packages/google.protobuf/3.22.0/google.protobuf.3.22.0.nupkg.sha512",
     "/home/maria/.nuget/packages/grpc.auth/2.51.0/grpc.auth.2.51.0.nupkg.sha512",
     "/home/maria/.nuget/packages/grpc.core.api/2.51.0/grpc.core.api.2.51.0.nupkg.sha512",
     "/home/maria/.nuget/packages/grpc.net.client/2.51.0/grpc.net.client.2.51.0.nupkg.sha512",

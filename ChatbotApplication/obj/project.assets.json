@@ -158,7 +158,7 @@
           }
         }
       },
-      "Google.Protobuf/3.21.0": {
+      "Google.Protobuf/3.22.0": {
         "type": "package",
         "compile": {
           "lib/net5.0/Google.Protobuf.dll": {
@@ -598,14 +598,14 @@
         "lib/netstandard2.1/Google.LongRunning.xml"
       ]
     },
-    "Google.Protobuf/3.21.0": {
-      "sha512": "LKtDRauLeBFzwhK7JKpzvyNCvIxYRPX9mHjeuTj3gtG9F6JnSVqF1X2h+UZnQB47Ihi4+EipvbU1fEG7XNa30A==",
+    "Google.Protobuf/3.22.0": {
+      "sha512": "UE1TRMrBBBmnA8xbqzTvX4sSwn+2W/Xxrs/v5Aws/7C8RD6fY6STi1eAnCu7Ez93oHcPdpyStGnFel/aIB407Q==",
       "type": "package",
-      "path": "google.protobuf/3.21.0",
+      "path": "google.protobuf/3.22.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "google.protobuf.3.21.0.nupkg.sha512",
+        "google.protobuf.3.22.0.nupkg.sha512",
         "google.protobuf.nuspec",
         "lib/net45/Google.Protobuf.dll",
         "lib/net45/Google.Protobuf.pdb",
@@ -1179,6 +1179,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Google.Cloud.Dialogflow.V2 >= 4.8.0",
+      "Google.Protobuf >= 3.22.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.3",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1223,6 +1224,10 @@
           "Google.Cloud.Dialogflow.V2": {
             "target": "Package",
             "version": "[4.8.0, )"
+          },
+          "Google.Protobuf": {
+            "target": "Package",
+            "version": "[3.22.0, )"
           },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
